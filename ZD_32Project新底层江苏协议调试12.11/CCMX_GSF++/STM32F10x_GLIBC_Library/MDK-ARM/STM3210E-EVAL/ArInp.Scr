@@ -1,8 +1,0 @@
---create .\STM3210E-EVAL\STM3210E-LIB.lib
-.\stm3210e-eval\main_lib.o
-.\stm3210e-eval\stm32glibc_gpio.o
-.\stm3210e-eval\stm32glibc_nvic.o
-.\stm3210e-eval\stm32glibc_rcc.o
-.\stm3210e-eval\stm32glibc_scb.o
-.\stm3210e-eval\stm32glibc_systick.o
-.\stm3210e-eval\stm32glibc_usart.o
